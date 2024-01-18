@@ -44,3 +44,4 @@
 </p>
 <p><a href="https://dashboard.heroku.com/new?template=https://github.com/derdoin/PlutoMusic)
 ━━━━━━━━━━━━━━━━━━━━
+Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/derdoin/PlutoMusic")
